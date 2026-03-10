@@ -11,7 +11,7 @@
  * @version 1.0
  */
 
-public class HotelBookingApp {
+public class BookMyStayApp {
 
     /**
      * The main method is the entry point of the Java application.
