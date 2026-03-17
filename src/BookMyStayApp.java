@@ -11,7 +11,7 @@ import java.util.Queue;
  * processed later by the allocation system.
  *
  * @author Student
- * @version 5.1
+ * @version
  */
 public class BookMyStayApp {
 
